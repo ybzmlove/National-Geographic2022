@@ -271,7 +271,6 @@ const router1 = new VueRouter({
     routes : rtRoutes
 });
 
-
 const date = new Date();
 const year = date.getFullYear();
 
@@ -317,7 +316,6 @@ const menuList = () => {
         $resBtn.classList.remove("active");
     });
 }
-
 
 //반응형메뉴 클릭시 
 $resBtn.addEventListener("click", function(){

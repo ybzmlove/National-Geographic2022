@@ -180,7 +180,7 @@ section.sub_item .wrap .content .box{
 }
 section.sub_item .wrap .content .box .bg_img{ 
     width: 100%; height: 100%;
-    background-color: #ffc;
+    /* background-color: #ffc; */
     background-size: cover; background-position: 50% 50%;
 }
 section.sub_item .wrap .content .box .info{ 
